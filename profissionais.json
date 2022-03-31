@@ -4,34 +4,44 @@
       "nomeCompleto": "João Paulo Silveira",
       "nomeUsuario": "João Silveira",
       "ativo": "Sim",
-      "especialidade": "Cardiologia"
+      "especialidade": "Cardiologia",
+      "numeroCrm": 541,
+      "estadoCrm":  "AM"
   },
   {
       "id": 2,
       "nomeCompleto": "Daniel de Souza e Silva",
       "nomeUsuario": "Daniel Silva",
       "ativo": "Não",
-      "especialidade": "Endocrinologia"
+      "especialidade": "Endocrinologia",
+      "numeroCrm": 945,
+      "estadoCrm":  "RN"
   },
   {
       "id": 3,
       "nomeCompleto": "Aluízio dos Santos Catão",
       "nomeUsuario": "Aluízio Catão",
       "ativo": "Sim",
-      "especialidade": "Oftamologia"
+      "especialidade": "Oftamologia",
+      "numeroCrm": 1.105,
+      "estadoCrm":  "RO"
   },
   {
       "id": 4,
       "nomeCompleto": "Júlia Fonseca Aguiar",
       "nomeUsuario": "Júlia Aguiar",
       "ativo": "Sim",
-      "especialidade": "Ginecologia e Obstetrícia"
+      "especialidade": "Ginecologia e Obstetrícia",
+      "numeroCrm": 1.345,
+      "estadoCrm":  "AC"
   },
   {
       "id": 5,
       "nomeCompleto": "Paulo",
       "nomeUsuario": "daricelio",
       "ativo": "Sim",
-      "especialidade": "Oncologia"
+      "especialidade": "Oncologia",
+      "numeroCrm": 1.555,
+      "estadoCrm":  "AC"
   }
 ]
